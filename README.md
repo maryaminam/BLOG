@@ -12,6 +12,6 @@ This is a Django-based blog project where users can read, create, edit, and dele
 
 ## Usage
 - Register or login to start creating and managing your blog posts.
-- Create a new article by navigating to the "New Article" page.
+- Create a new article by navigating to the "Add Post" page.
 - Edit or delete your articles from your profile page.
 - View and comment on articles created by other users.
